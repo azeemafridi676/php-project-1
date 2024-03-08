@@ -1,0 +1,519 @@
+[21-May-2023 06:06:29 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 30
+[21-May-2023 06:06:29 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 06:06:29 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 06:06:29 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 06:06:29 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 36
+[21-May-2023 06:06:29 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 37
+[21-May-2023 06:06:29 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 39
+[21-May-2023 06:06:29 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 40
+[21-May-2023 06:06:34 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 30
+[21-May-2023 06:06:34 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 06:06:34 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 06:06:34 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 06:06:34 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 36
+[21-May-2023 06:06:34 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 37
+[21-May-2023 06:06:34 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 39
+[21-May-2023 06:06:34 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 40
+[21-May-2023 06:06:35 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 30
+[21-May-2023 06:06:35 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 06:06:35 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 06:06:35 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 06:06:35 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 36
+[21-May-2023 06:06:35 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 37
+[21-May-2023 06:06:35 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 39
+[21-May-2023 06:06:35 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 40
+[21-May-2023 06:06:35 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 30
+[21-May-2023 06:06:35 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 06:06:35 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 06:06:35 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 06:06:35 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 36
+[21-May-2023 06:06:35 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 37
+[21-May-2023 06:06:35 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 39
+[21-May-2023 06:06:35 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 40
+[21-May-2023 06:06:35 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 30
+[21-May-2023 06:06:35 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 06:06:35 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 06:06:35 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 06:06:35 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 36
+[21-May-2023 06:06:35 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 37
+[21-May-2023 06:06:35 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 39
+[21-May-2023 06:06:35 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 40
+[21-May-2023 06:10:53 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 30
+[21-May-2023 06:10:53 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 06:10:53 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 06:10:53 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 06:10:53 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 36
+[21-May-2023 06:10:53 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 37
+[21-May-2023 06:10:53 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 39
+[21-May-2023 06:10:53 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 40
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 30
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 36
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 37
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 39
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 40
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 30
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 36
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 37
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 39
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 40
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 30
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 36
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 37
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 39
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 40
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 30
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 36
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 37
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 39
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 40
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 30
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 36
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 37
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 39
+[21-May-2023 06:10:54 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 40
+[21-May-2023 06:10:55 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 30
+[21-May-2023 06:10:55 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 06:10:55 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 06:10:55 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 06:10:55 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 36
+[21-May-2023 06:10:55 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 37
+[21-May-2023 06:10:55 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 39
+[21-May-2023 06:10:55 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 40
+[21-May-2023 09:14:03 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 28
+[21-May-2023 09:14:03 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 31
+[21-May-2023 09:14:03 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 32
+[21-May-2023 09:14:03 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 09:14:03 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 09:14:03 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 09:14:03 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 37
+[21-May-2023 09:14:03 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 38
+[21-May-2023 09:14:03 UTC] PHP Warning:  Undefined global variable $FB_ProcesserID in /home/tryrevoltcbd/public_html/api/createOrder.php on line 46
+[21-May-2023 09:19:52 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 28
+[21-May-2023 09:19:52 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 31
+[21-May-2023 09:19:52 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 32
+[21-May-2023 09:19:52 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 09:19:52 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 09:19:52 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 09:19:52 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 37
+[21-May-2023 09:19:52 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 38
+[21-May-2023 09:19:52 UTC] PHP Warning:  Undefined global variable $FB_ProcesserID in /home/tryrevoltcbd/public_html/api/createOrder.php on line 46
+[21-May-2023 09:22:17 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 28
+[21-May-2023 09:22:17 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 31
+[21-May-2023 09:22:17 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 32
+[21-May-2023 09:22:17 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 09:22:17 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 09:22:17 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 09:22:17 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 37
+[21-May-2023 09:22:17 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 38
+[21-May-2023 09:22:17 UTC] PHP Warning:  Undefined global variable $FB_ProcesserID in /home/tryrevoltcbd/public_html/api/createOrder.php on line 46
+[21-May-2023 09:22:18 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 28
+[21-May-2023 09:22:18 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 31
+[21-May-2023 09:22:18 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 32
+[21-May-2023 09:22:18 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 09:22:18 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 09:22:18 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 09:22:18 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 37
+[21-May-2023 09:22:18 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 38
+[21-May-2023 09:22:18 UTC] PHP Warning:  Undefined global variable $FB_ProcesserID in /home/tryrevoltcbd/public_html/api/createOrder.php on line 46
+[21-May-2023 09:23:48 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 28
+[21-May-2023 09:23:48 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 31
+[21-May-2023 09:23:48 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 32
+[21-May-2023 09:23:48 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 09:23:48 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 09:23:48 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 09:23:48 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 37
+[21-May-2023 09:23:48 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 38
+[21-May-2023 09:23:48 UTC] PHP Warning:  Undefined global variable $FB_ProcesserID in /home/tryrevoltcbd/public_html/api/createOrder.php on line 46
+[21-May-2023 09:23:48 UTC] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/tryrevoltcbd/public_html/api/createOrder.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/tryrevoltcbd/public_html/api/createOrder.php on line 87
+[21-May-2023 09:23:55 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 28
+[21-May-2023 09:23:55 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 31
+[21-May-2023 09:23:55 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 32
+[21-May-2023 09:23:55 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 09:23:55 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 09:23:55 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 09:23:55 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 37
+[21-May-2023 09:23:55 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 38
+[21-May-2023 09:23:55 UTC] PHP Warning:  Undefined global variable $FB_ProcesserID in /home/tryrevoltcbd/public_html/api/createOrder.php on line 46
+[21-May-2023 09:23:56 UTC] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/tryrevoltcbd/public_html/api/createOrder.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/tryrevoltcbd/public_html/api/createOrder.php on line 87
+[21-May-2023 09:25:05 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 28
+[21-May-2023 09:25:05 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 31
+[21-May-2023 09:25:05 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 32
+[21-May-2023 09:25:05 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 09:25:05 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 09:25:05 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 09:25:05 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 37
+[21-May-2023 09:25:05 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 38
+[21-May-2023 09:25:05 UTC] PHP Warning:  Undefined global variable $FB_ProcesserID in /home/tryrevoltcbd/public_html/api/createOrder.php on line 46
+[21-May-2023 09:25:17 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 28
+[21-May-2023 09:25:17 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 31
+[21-May-2023 09:25:17 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 32
+[21-May-2023 09:25:17 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 09:25:17 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 09:25:17 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 09:25:17 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 37
+[21-May-2023 09:25:17 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 38
+[21-May-2023 09:25:17 UTC] PHP Warning:  Undefined global variable $FB_ProcesserID in /home/tryrevoltcbd/public_html/api/createOrder.php on line 46
+[21-May-2023 09:25:53 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 28
+[21-May-2023 09:25:53 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 31
+[21-May-2023 09:25:53 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 32
+[21-May-2023 09:25:53 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 09:25:53 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 09:25:53 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 09:25:53 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 37
+[21-May-2023 09:25:53 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 38
+[21-May-2023 09:25:53 UTC] PHP Warning:  Undefined global variable $FB_ProcesserID in /home/tryrevoltcbd/public_html/api/createOrder.php on line 46
+[21-May-2023 09:29:33 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 28
+[21-May-2023 09:29:33 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 31
+[21-May-2023 09:29:33 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 32
+[21-May-2023 09:29:33 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 09:29:33 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 09:29:33 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 09:29:33 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 37
+[21-May-2023 09:29:33 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 38
+[21-May-2023 09:29:33 UTC] PHP Warning:  Undefined global variable $FB_ProcesserID in /home/tryrevoltcbd/public_html/api/createOrder.php on line 46
+[21-May-2023 09:30:49 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 28
+[21-May-2023 09:30:49 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 31
+[21-May-2023 09:30:49 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 32
+[21-May-2023 09:30:49 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 09:30:49 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 09:30:49 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 09:30:49 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 37
+[21-May-2023 09:30:49 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 38
+[21-May-2023 09:30:49 UTC] PHP Warning:  Undefined global variable $FB_ProcesserID in /home/tryrevoltcbd/public_html/api/createOrder.php on line 46
+[21-May-2023 09:31:05 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 28
+[21-May-2023 09:31:05 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 31
+[21-May-2023 09:31:05 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 32
+[21-May-2023 09:31:05 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 09:31:05 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 09:31:05 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 09:31:05 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 37
+[21-May-2023 09:31:05 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 38
+[21-May-2023 09:31:05 UTC] PHP Warning:  Undefined global variable $FB_ProcesserID in /home/tryrevoltcbd/public_html/api/createOrder.php on line 46
+[21-May-2023 09:31:46 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 28
+[21-May-2023 09:31:46 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 31
+[21-May-2023 09:31:46 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 32
+[21-May-2023 09:31:46 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 09:31:46 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 09:31:46 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 09:31:46 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 37
+[21-May-2023 09:31:46 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 38
+[21-May-2023 09:31:46 UTC] PHP Warning:  Undefined global variable $FB_ProcesserID in /home/tryrevoltcbd/public_html/api/createOrder.php on line 46
+[21-May-2023 09:31:47 UTC] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/tryrevoltcbd/public_html/api/createOrder.php:86
+Stack trace:
+#0 {main}
+  thrown in /home/tryrevoltcbd/public_html/api/createOrder.php on line 86
+[21-May-2023 09:33:08 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 28
+[21-May-2023 09:33:08 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 31
+[21-May-2023 09:33:08 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 32
+[21-May-2023 09:33:08 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 09:33:08 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 09:33:08 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 09:33:08 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 37
+[21-May-2023 09:33:08 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 38
+[21-May-2023 09:33:08 UTC] PHP Warning:  Undefined global variable $FB_ProcesserID in /home/tryrevoltcbd/public_html/api/createOrder.php on line 46
+[21-May-2023 09:38:27 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 28
+[21-May-2023 09:38:27 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 31
+[21-May-2023 09:38:27 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 32
+[21-May-2023 09:38:27 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 09:38:27 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 09:38:27 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 09:38:27 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 37
+[21-May-2023 09:38:27 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 38
+[21-May-2023 09:38:27 UTC] PHP Warning:  Undefined global variable $FB_ProcesserID in /home/tryrevoltcbd/public_html/api/createOrder.php on line 46
+[21-May-2023 09:42:51 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 28
+[21-May-2023 09:42:51 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 31
+[21-May-2023 09:42:51 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 32
+[21-May-2023 09:42:51 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 09:42:51 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 09:42:51 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 09:42:51 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 37
+[21-May-2023 09:42:51 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 38
+[21-May-2023 09:42:51 UTC] PHP Warning:  Undefined global variable $FB_ProcesserID in /home/tryrevoltcbd/public_html/api/createOrder.php on line 46
+[21-May-2023 09:42:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function addOrder() in /home/tryrevoltcbd/public_html/api/createOrder.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/tryrevoltcbd/public_html/api/createOrder.php on line 55
+[21-May-2023 09:42:59 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 28
+[21-May-2023 09:42:59 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 31
+[21-May-2023 09:42:59 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 32
+[21-May-2023 09:42:59 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 09:42:59 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 09:42:59 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 09:42:59 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 37
+[21-May-2023 09:42:59 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 38
+[21-May-2023 09:42:59 UTC] PHP Warning:  Undefined global variable $FB_ProcesserID in /home/tryrevoltcbd/public_html/api/createOrder.php on line 46
+[21-May-2023 09:42:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function addOrder() in /home/tryrevoltcbd/public_html/api/createOrder.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/tryrevoltcbd/public_html/api/createOrder.php on line 55
+[21-May-2023 09:44:17 UTC] PHP Warning:  include_once(api/action.php): Failed to open stream: No such file or directory in /home/tryrevoltcbd/public_html/api/createOrder.php on line 3
+[21-May-2023 09:44:17 UTC] PHP Warning:  include_once(): Failed opening 'api/action.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/tryrevoltcbd/public_html/api/createOrder.php on line 3
+[21-May-2023 09:44:17 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 29
+[21-May-2023 09:44:17 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 32
+[21-May-2023 09:44:17 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 09:44:17 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 09:44:17 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 09:44:17 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 36
+[21-May-2023 09:44:17 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 38
+[21-May-2023 09:44:17 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 39
+[21-May-2023 09:44:17 UTC] PHP Warning:  Undefined global variable $FB_ProcesserID in /home/tryrevoltcbd/public_html/api/createOrder.php on line 47
+[21-May-2023 09:44:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function addOrder() in /home/tryrevoltcbd/public_html/api/createOrder.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/tryrevoltcbd/public_html/api/createOrder.php on line 56
+[21-May-2023 09:44:50 UTC] PHP Warning:  include_once(api/action.php): Failed to open stream: No such file or directory in /home/tryrevoltcbd/public_html/api/createOrder.php on line 3
+[21-May-2023 09:44:50 UTC] PHP Warning:  include_once(): Failed opening 'api/action.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/tryrevoltcbd/public_html/api/createOrder.php on line 3
+[21-May-2023 09:44:50 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 29
+[21-May-2023 09:44:50 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 32
+[21-May-2023 09:44:50 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 09:44:50 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 09:44:50 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 09:44:50 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 36
+[21-May-2023 09:44:50 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 38
+[21-May-2023 09:44:50 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 39
+[21-May-2023 09:44:50 UTC] PHP Warning:  Undefined global variable $FB_ProcesserID in /home/tryrevoltcbd/public_html/api/createOrder.php on line 47
+[21-May-2023 09:44:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function addOrder() in /home/tryrevoltcbd/public_html/api/createOrder.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/tryrevoltcbd/public_html/api/createOrder.php on line 56
+[21-May-2023 09:45:38 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 29
+[21-May-2023 09:45:38 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 32
+[21-May-2023 09:45:38 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 09:45:38 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 09:45:38 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 09:45:38 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 36
+[21-May-2023 09:45:38 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 38
+[21-May-2023 09:45:38 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 39
+[21-May-2023 09:45:38 UTC] PHP Warning:  Undefined global variable $FB_ProcesserID in /home/tryrevoltcbd/public_html/api/createOrder.php on line 47
+[21-May-2023 09:45:56 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 29
+[21-May-2023 09:45:56 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 32
+[21-May-2023 09:45:56 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 09:45:56 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 09:45:56 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 09:45:56 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 36
+[21-May-2023 09:45:56 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 38
+[21-May-2023 09:45:56 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 39
+[21-May-2023 09:45:56 UTC] PHP Warning:  Undefined global variable $FB_ProcesserID in /home/tryrevoltcbd/public_html/api/createOrder.php on line 47
+[21-May-2023 09:47:03 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 29
+[21-May-2023 09:47:03 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 32
+[21-May-2023 09:47:03 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 09:47:03 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 09:47:03 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 09:47:03 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 36
+[21-May-2023 09:47:03 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 38
+[21-May-2023 09:47:03 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 39
+[21-May-2023 09:47:03 UTC] PHP Warning:  Undefined global variable $FB_ProcesserID in /home/tryrevoltcbd/public_html/api/createOrder.php on line 47
+[21-May-2023 09:47:29 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 29
+[21-May-2023 09:47:29 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 32
+[21-May-2023 09:47:29 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 09:47:29 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 09:47:29 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 09:47:29 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 36
+[21-May-2023 09:47:29 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 38
+[21-May-2023 09:47:29 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 39
+[21-May-2023 09:47:29 UTC] PHP Warning:  Undefined global variable $FB_ProcesserID in /home/tryrevoltcbd/public_html/api/createOrder.php on line 47
+[21-May-2023 09:47:55 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 29
+[21-May-2023 09:47:55 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 32
+[21-May-2023 09:47:55 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 09:47:55 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 09:47:55 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 09:47:55 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 36
+[21-May-2023 09:47:55 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 38
+[21-May-2023 09:47:55 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 39
+[21-May-2023 09:47:55 UTC] PHP Warning:  Undefined global variable $FB_ProcesserID in /home/tryrevoltcbd/public_html/api/createOrder.php on line 47
+[21-May-2023 09:53:52 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 29
+[21-May-2023 09:53:52 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 32
+[21-May-2023 09:53:52 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 09:53:52 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 09:53:52 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 09:53:52 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 36
+[21-May-2023 09:53:52 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 38
+[21-May-2023 09:53:52 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 39
+[21-May-2023 09:53:52 UTC] PHP Warning:  Undefined global variable $FB_ProcesserID in /home/tryrevoltcbd/public_html/api/createOrder.php on line 47
+[21-May-2023 10:02:09 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 29
+[21-May-2023 10:02:09 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 32
+[21-May-2023 10:02:09 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 10:02:09 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 10:02:09 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 10:02:09 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 36
+[21-May-2023 10:02:09 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 38
+[21-May-2023 10:02:09 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 39
+[21-May-2023 10:02:09 UTC] PHP Warning:  Undefined global variable $FB_ProcesserID in /home/tryrevoltcbd/public_html/api/createOrder.php on line 47
+[21-May-2023 10:03:43 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 29
+[21-May-2023 10:03:43 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 32
+[21-May-2023 10:03:43 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 10:03:43 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 10:03:43 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 10:03:43 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 36
+[21-May-2023 10:03:43 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 38
+[21-May-2023 10:03:43 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 39
+[21-May-2023 10:03:43 UTC] PHP Warning:  Undefined global variable $FB_ProcesserID in /home/tryrevoltcbd/public_html/api/createOrder.php on line 47
+[21-May-2023 22:15:10 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 29
+[21-May-2023 22:15:10 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 32
+[21-May-2023 22:15:10 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 22:15:10 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 22:15:10 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 22:15:10 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 36
+[21-May-2023 22:15:10 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 38
+[21-May-2023 22:15:10 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 39
+[21-May-2023 22:15:10 UTC] PHP Warning:  Undefined global variable $FB_ProcesserID in /home/tryrevoltcbd/public_html/api/createOrder.php on line 47
+[21-May-2023 22:15:11 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 29
+[21-May-2023 22:15:11 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 32
+[21-May-2023 22:15:11 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 22:15:11 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 22:15:11 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 22:15:11 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 36
+[21-May-2023 22:15:11 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 38
+[21-May-2023 22:15:11 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 39
+[21-May-2023 22:15:11 UTC] PHP Warning:  Undefined global variable $FB_ProcesserID in /home/tryrevoltcbd/public_html/api/createOrder.php on line 47
+[21-May-2023 22:15:16 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 29
+[21-May-2023 22:15:16 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 32
+[21-May-2023 22:15:16 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 22:15:16 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 22:15:16 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 22:15:16 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 36
+[21-May-2023 22:15:16 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 38
+[21-May-2023 22:15:16 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 39
+[21-May-2023 22:15:16 UTC] PHP Warning:  Undefined global variable $FB_ProcesserID in /home/tryrevoltcbd/public_html/api/createOrder.php on line 47
+[21-May-2023 22:16:25 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 29
+[21-May-2023 22:16:25 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 32
+[21-May-2023 22:16:25 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[21-May-2023 22:16:25 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[21-May-2023 22:16:25 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[21-May-2023 22:16:25 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 36
+[21-May-2023 22:16:25 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 38
+[21-May-2023 22:16:25 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 39
+[21-May-2023 22:16:25 UTC] PHP Warning:  Undefined global variable $FB_ProcesserID in /home/tryrevoltcbd/public_html/api/createOrder.php on line 47
+[22-May-2023 04:48:15 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/addUpsell.php on line 28
+[22-May-2023 04:48:15 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/addUpsell.php on line 30
+[22-May-2023 04:48:15 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/addUpsell.php on line 31
+[22-May-2023 04:48:15 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/addUpsell.php on line 32
+[22-May-2023 04:48:15 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/addUpsell.php on line 36
+[22-May-2023 04:48:15 UTC] PHP Warning:  Undefined global variable $FB_US_ProcesserID in /home/tryrevoltcbd/public_html/api/addUpsell.php on line 43
+[22-May-2023 04:48:15 UTC] PHP Warning:  Undefined array key "orderId" in /home/tryrevoltcbd/public_html/api/addUpsell.php on line 45
+[22-May-2023 04:48:15 UTC] PHP Warning:  Undefined global variable $usID in /home/tryrevoltcbd/public_html/api/addUpsell.php on line 46
+[22-May-2023 04:49:50 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 29
+[22-May-2023 04:49:50 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 32
+[22-May-2023 04:49:50 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[22-May-2023 04:49:50 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[22-May-2023 04:49:50 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[22-May-2023 04:49:50 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 36
+[22-May-2023 04:49:50 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 38
+[22-May-2023 04:49:50 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 39
+[22-May-2023 04:49:50 UTC] PHP Warning:  Undefined global variable $FB_ProcesserID in /home/tryrevoltcbd/public_html/api/createOrder.php on line 47
+[22-May-2023 05:05:48 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/addUpsell.php on line 28
+[22-May-2023 05:05:48 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/addUpsell.php on line 30
+[22-May-2023 05:05:48 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/addUpsell.php on line 31
+[22-May-2023 05:05:48 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/addUpsell.php on line 32
+[22-May-2023 05:05:48 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/addUpsell.php on line 36
+[22-May-2023 05:05:48 UTC] PHP Warning:  Undefined global variable $FB_US_ProcesserID in /home/tryrevoltcbd/public_html/api/addUpsell.php on line 43
+[22-May-2023 05:05:48 UTC] PHP Warning:  Undefined array key "orderId" in /home/tryrevoltcbd/public_html/api/addUpsell.php on line 45
+[22-May-2023 05:05:48 UTC] PHP Warning:  Undefined global variable $usID in /home/tryrevoltcbd/public_html/api/addUpsell.php on line 46
+[22-May-2023 05:13:40 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 29
+[22-May-2023 05:13:40 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 32
+[22-May-2023 05:13:40 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[22-May-2023 05:13:40 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[22-May-2023 05:13:40 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[22-May-2023 05:13:40 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 36
+[22-May-2023 05:13:40 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 38
+[22-May-2023 05:13:40 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 39
+[22-May-2023 05:13:40 UTC] PHP Warning:  Undefined global variable $FB_ProcesserID in /home/tryrevoltcbd/public_html/api/createOrder.php on line 47
+[22-May-2023 13:27:13 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 29
+[22-May-2023 13:27:13 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 32
+[22-May-2023 13:27:13 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 33
+[22-May-2023 13:27:13 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[22-May-2023 13:27:13 UTC] PHP Warning:  Undefined array key "address2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[22-May-2023 13:27:13 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 36
+[22-May-2023 13:27:13 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 38
+[22-May-2023 13:27:13 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 39
+[22-May-2023 13:27:13 UTC] PHP Warning:  Undefined global variable $FB_ProcesserID in /home/tryrevoltcbd/public_html/api/createOrder.php on line 47
+[24-May-2023 20:28:19 UTC] PHP Warning:  Undefined array key "inlineRadioOptions" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 6
+[24-May-2023 20:28:19 UTC] PHP Warning:  Undefined array key "cc_expire_date_month_year" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 13
+[24-May-2023 20:28:19 UTC] PHP Warning:  Undefined array key "cardName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 14
+[24-May-2023 20:28:19 UTC] PHP Warning:  Undefined array key "cc_cvv2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 15
+[24-May-2023 20:28:19 UTC] PHP Warning:  Undefined array key "cc_number" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 17
+[24-May-2023 20:28:19 UTC] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tryrevoltcbd/public_html/api/createOrder.php on line 17
+[24-May-2023 20:28:19 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/tryrevoltcbd/public_html/api/createOrder.php on line 20
+[24-May-2023 20:28:19 UTC] PHP Warning:  Undefined array key 1 in /home/tryrevoltcbd/public_html/api/createOrder.php on line 22
+[24-May-2023 20:28:19 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[24-May-2023 20:28:19 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[24-May-2023 20:28:19 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 36
+[24-May-2023 20:28:19 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 37
+[24-May-2023 20:28:19 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 39
+[24-May-2023 20:28:19 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 40
+[24-May-2023 20:28:19 UTC] PHP Warning:  Undefined array key "cardName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 46
+[24-May-2023 20:28:19 UTC] PHP Warning:  Undefined array key "cc_cvv2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 47
+[24-May-2023 20:28:20 UTC] PHP Warning:  Undefined property: stdClass::$Transaction in /home/tryrevoltcbd/public_html/api/createOrder.php on line 118
+[24-May-2023 20:28:20 UTC] PHP Warning:  Attempt to read property "OrderInfo" on null in /home/tryrevoltcbd/public_html/api/createOrder.php on line 118
+[24-May-2023 20:28:20 UTC] PHP Warning:  Attempt to read property "OrderID" on null in /home/tryrevoltcbd/public_html/api/createOrder.php on line 118
+[24-May-2023 20:30:34 UTC] PHP Warning:  Undefined array key "inlineRadioOptions" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 6
+[24-May-2023 20:30:34 UTC] PHP Warning:  Undefined array key "cc_expire_date_month_year" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 13
+[24-May-2023 20:30:34 UTC] PHP Warning:  Undefined array key "cardName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 14
+[24-May-2023 20:30:34 UTC] PHP Warning:  Undefined array key "cc_cvv2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 15
+[24-May-2023 20:30:34 UTC] PHP Warning:  Undefined array key "cc_number" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 17
+[24-May-2023 20:30:34 UTC] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/tryrevoltcbd/public_html/api/createOrder.php on line 17
+[24-May-2023 20:30:34 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/tryrevoltcbd/public_html/api/createOrder.php on line 20
+[24-May-2023 20:30:34 UTC] PHP Warning:  Undefined array key 1 in /home/tryrevoltcbd/public_html/api/createOrder.php on line 22
+[24-May-2023 20:30:34 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 34
+[24-May-2023 20:30:34 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 35
+[24-May-2023 20:30:34 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 36
+[24-May-2023 20:30:34 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 37
+[24-May-2023 20:30:34 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 39
+[24-May-2023 20:30:34 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 40
+[24-May-2023 20:30:34 UTC] PHP Warning:  Undefined array key "cardName" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 46
+[24-May-2023 20:30:34 UTC] PHP Warning:  Undefined array key "cc_cvv2" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 47
+[24-May-2023 20:30:34 UTC] PHP Warning:  Undefined property: stdClass::$Transaction in /home/tryrevoltcbd/public_html/api/createOrder.php on line 118
+[24-May-2023 20:30:34 UTC] PHP Warning:  Attempt to read property "OrderInfo" on null in /home/tryrevoltcbd/public_html/api/createOrder.php on line 118
+[24-May-2023 20:30:34 UTC] PHP Warning:  Attempt to read property "OrderID" on null in /home/tryrevoltcbd/public_html/api/createOrder.php on line 118
+[26-May-2023 20:31:10 UTC] PHP Warning:  Undefined property: stdClass::$Transaction in /home/tryrevoltcbd/public_html/api/createOrder.php on line 118
+[26-May-2023 20:31:10 UTC] PHP Warning:  Attempt to read property "OrderInfo" on null in /home/tryrevoltcbd/public_html/api/createOrder.php on line 118
+[26-May-2023 20:31:10 UTC] PHP Warning:  Attempt to read property "OrderID" on null in /home/tryrevoltcbd/public_html/api/createOrder.php on line 118
+[26-May-2023 20:32:01 UTC] PHP Warning:  Undefined property: stdClass::$Transaction in /home/tryrevoltcbd/public_html/api/createOrder.php on line 118
+[26-May-2023 20:32:01 UTC] PHP Warning:  Attempt to read property "OrderInfo" on null in /home/tryrevoltcbd/public_html/api/createOrder.php on line 118
+[26-May-2023 20:32:01 UTC] PHP Warning:  Attempt to read property "OrderID" on null in /home/tryrevoltcbd/public_html/api/createOrder.php on line 118
+[26-May-2023 21:36:19 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 32
+[26-May-2023 21:36:19 UTC] PHP Warning:  Undefined property: stdClass::$Transaction in /home/tryrevoltcbd/public_html/api/createOrder.php on line 119
+[26-May-2023 21:36:19 UTC] PHP Warning:  Attempt to read property "OrderInfo" on null in /home/tryrevoltcbd/public_html/api/createOrder.php on line 119
+[26-May-2023 21:36:19 UTC] PHP Warning:  Attempt to read property "OrderID" on null in /home/tryrevoltcbd/public_html/api/createOrder.php on line 119
+[26-May-2023 21:41:48 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 32
+[26-May-2023 21:41:49 UTC] PHP Warning:  Undefined property: stdClass::$Transaction in /home/tryrevoltcbd/public_html/api/createOrder.php on line 119
+[26-May-2023 21:41:49 UTC] PHP Warning:  Attempt to read property "OrderInfo" on null in /home/tryrevoltcbd/public_html/api/createOrder.php on line 119
+[26-May-2023 21:41:49 UTC] PHP Warning:  Attempt to read property "OrderID" on null in /home/tryrevoltcbd/public_html/api/createOrder.php on line 119
+[26-May-2023 21:44:37 UTC] PHP Warning:  Undefined array key "CustomerID" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 5
+[26-May-2023 21:46:36 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/tryrevoltcbd/public_html/api/createOrder.php on line 3
+[26-May-2023 22:41:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function authUser() in /home/tryrevoltcbd/public_html/api/createOrder.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/tryrevoltcbd/public_html/api/createOrder.php on line 4
+[26-May-2023 22:44:53 UTC] PHP Warning:  Undefined array key "firstName" in /home/tryrevoltcbd/public_html/api/action.php on line 159
+[26-May-2023 22:44:53 UTC] PHP Warning:  Undefined array key "lastName" in /home/tryrevoltcbd/public_html/api/action.php on line 160
+[26-May-2023 22:44:53 UTC] PHP Warning:  Undefined array key "address" in /home/tryrevoltcbd/public_html/api/action.php on line 161
+[26-May-2023 22:44:53 UTC] PHP Warning:  Undefined array key "city" in /home/tryrevoltcbd/public_html/api/action.php on line 162
+[26-May-2023 22:44:53 UTC] PHP Warning:  Undefined array key "state" in /home/tryrevoltcbd/public_html/api/action.php on line 163
+[26-May-2023 22:44:53 UTC] PHP Warning:  Undefined array key "zipCode" in /home/tryrevoltcbd/public_html/api/action.php on line 164
+[26-May-2023 22:44:53 UTC] PHP Warning:  Undefined array key "phone" in /home/tryrevoltcbd/public_html/api/action.php on line 165
+[26-May-2023 22:44:53 UTC] PHP Warning:  Undefined array key "email" in /home/tryrevoltcbd/public_html/api/action.php on line 166
+[27-May-2023 05:57:48 UTC] PHP Warning:  Undefined array key "billing_city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 21
+[28-May-2023 09:54:15 UTC] PHP Warning:  Undefined array key "c1" in /home/tryrevoltcbd/public_html/api/action.php on line 168
+[28-May-2023 09:54:16 UTC] PHP Warning:  Undefined array key "billing_city" in /home/tryrevoltcbd/public_html/api/createOrder.php on line 21
